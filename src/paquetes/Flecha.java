@@ -26,9 +26,9 @@ public class Flecha {
     }
     private void imprime(String simbolo) {
     	if (color.equals("negro")) {
-			System.out.println(simbolo);
+			System.out.print(simbolo);
 		}else {
-			System.out.println(simbolo);
+			System.out.print(simbolo);
 		}
     }
 }
